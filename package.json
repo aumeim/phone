@@ -1,0 +1,33 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "alert": "^5.0.5",
+    "axios": "^0.21.0",
+    "browserify-fs": "^1.0.0",
+    "caman": "^4.1.2",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "fabric": "^4.2.0",
+    "formidable": "^1.2.2",
+    "http-errors": "~1.6.3",
+    "merge-ismages": "^2.0.0",
+    "mongodb": "^3.6.2",
+    "morgan": "~1.9.1",
+    "nedb": "^1.8.0",
+    "node-key-sender": "^1.0.11",
+    "nodemon": "^2.0.6",
+    "printer": "^0.4.0",
+    "qz-tray": "^2.1.2",
+    "robot": "^0.3.0",
+    "robotjs": "^0.6.0",
+    "sendkey": "0.0.3",
+    "snap-photo": "0.0.6"
+  }
+}
